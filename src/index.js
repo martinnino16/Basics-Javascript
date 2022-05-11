@@ -13,4 +13,6 @@ const activo = true;
 // const mensaje = !activo ? 'activo': null;
 const mensaje = !activo && 'activo';
 
-console.log(mensaje)
+console.log(mensaje);
+
+console.log('Hola mundo')
